@@ -1,0 +1,6 @@
+title	lang	date	tags	codeText
+fasu	javascript	21/45/2002	asd,gor,glr	      \n\n\ndocument.querySelectorAll('.card').forEach((el) => {         el.addEventListener( 'click', function(event) {           document.querySelectorAll('.card').forEach((el2) => {             el2.style.backgroundColor = "white"           })
+oelp	C++	21/45/2002	asd,gor,glr	fdhgdfhg
+dkdn	python	21/45/2002	asd,gor,glr	dfghdfgh
+meusy	APL	21/45/2002	asd,gor,glr	dfghdfg
+aliso	orca	21/45/2002	asd,gor,glr	dfghdfgh

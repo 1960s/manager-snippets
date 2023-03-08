@@ -1,0 +1,53 @@
+write nl docs
+talk about picture break down essential features first, reverse engineering
+then write pseudo code for page during talk
+
+OPEN
+flexbox 
+and resizable bars
+function text how to
+
+CLOSED
+bubbling
+tag array
+
+
+USE DOCS TO ADD FEATURES
+
+
+
+Add snippet
+how to do tags and edit
+Wire sidebar to cards for filtering
+how to show number to side of tag groups
+
+
+make compatible with vs code
+
+
+description
+documentation
+search bar
+styling
+tags
+one or more related code snippets
+add a title
+tags to it
+(optionally) a source URL for your inspiration
+and comments about the snippets.
+
+  "Snippet name": {
+    "scope": "language1, language2" 
+    "prefix": ["trigger word 1, trigger word 2"],
+    "body": ["your code snippet"],
+    "description": "description of the code"
+  }
+}
+
+title
+language
+description
+snippet
+tags
+date
+
